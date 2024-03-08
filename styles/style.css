@@ -143,6 +143,9 @@ h2{
         justify-content: center;
         gap: 40px;
    }
+    .cabecalho__link{
+        font-size: 1rem;
+    }
     .apresentacao{
         flex-direction: column-reverse;
         gap: 80px;
