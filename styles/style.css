@@ -153,6 +153,8 @@ h2{
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem{
+    width: 60%;
 }
 @media (min-width: 1200px) {
     .cabecalho__redes{
@@ -164,4 +166,6 @@ h2{
     .apresentacao__links__botao {
         width: 70%;
     }
+    .apresentacao__imagem{
+    width: 60%;
 }
