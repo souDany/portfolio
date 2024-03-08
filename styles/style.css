@@ -158,7 +158,9 @@ h2{
     .cabecalho__redes{
         gap: 40px;
     }
-    
+    .cabecalho__link{
+        font-size: 1rem;
+    }
     .apresentacao__links__botao {
         width: 70%;
     }
