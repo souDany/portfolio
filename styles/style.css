@@ -155,6 +155,10 @@ h2{
     }
     .apresentacao__imagem{
     width: 60%;
+    }
+    .apresentacao__imagem__about{
+    width: 50%;
+    }
 }
 @media (min-width: 1200px) {
     .cabecalho__redes{
@@ -168,4 +172,9 @@ h2{
     }
     .apresentacao__imagem{
     width: 60%;
+    }
+    .apresentacao__imagem__about{
+    width: 50%;
+}
+
 }
