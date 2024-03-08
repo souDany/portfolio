@@ -152,8 +152,9 @@ h2{
     }
 }
 @media (min-width: 1200px) {
-    .cabecalho{
-        width: auto;
+    .cabecalho__redes{
+        padding-left: 4%;
+        padding-right: 4%;
     }
     
     .apresentacao__links__botao {
