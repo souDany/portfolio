@@ -141,7 +141,7 @@ h2{
    }
    .cabecalho__redes{
         justify-content: center;
-        gap: 80px;
+        gap: 40px;
    }
     .apresentacao{
         flex-direction: column-reverse;
@@ -153,8 +153,7 @@ h2{
 }
 @media (min-width: 1200px) {
     .cabecalho__redes{
-        padding-left: 4%;
-        padding-right: 4%;
+        gap: 40px;
     }
     
     .apresentacao__links__botao {
