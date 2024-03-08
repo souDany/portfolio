@@ -152,6 +152,10 @@ h2{
     }
 }
 @media (min-width: 1200px) {
+    .cabecalho{
+        width: auto;
+    }
+    
     .apresentacao__links__botao {
         width: 70%;
     }
